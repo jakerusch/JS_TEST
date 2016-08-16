@@ -1,0 +1,22 @@
+{
+    "longName": "JS_TEST",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "JS_TEST",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "versionCode": 1,
+    "watchapp": {
+        "watchface": true
+    }
+}
